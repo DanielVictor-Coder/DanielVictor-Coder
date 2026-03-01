@@ -41,5 +41,5 @@ Este perfil é meu espaço para compartilhar aprendizados, experimentos e minha 
 ---
 
 <p align="center">
-⭐ Sempre aprendendo, sempre construindo.
+ Sempre aprendendo, sempre construindo.
 </p>
